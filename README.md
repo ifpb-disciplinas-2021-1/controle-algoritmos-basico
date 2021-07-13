@@ -6,7 +6,7 @@ Este projeto está estruturado com os assuntos relacionados aos conceitos básic
 
 *[Aula 1 - Fluxogramas ](https://github.com/ifpb-disciplinas-2021-1/controle-algoritmos-basico/commit/184ab8ba1a966263e52af8cdfb8275ed293a745f)*
 
-*[Aula 2 - Conceitos básicos - comandos de entrada e saída](https://github.com/ifpb-disciplinas-2021-1/controle-algoritmos-basico/commit/184ab8ba1a966263e52af8cdfb8275ed293a745f)*
+*[Aula 2 - Conceitos básicos - comandos de entrada e saída](https://github.com/ifpb-disciplinas-2021-1/controle-algoritmos-basico/commit/a787e9b1937b7f0a823fd69d190210056cde52f0)*
 
 
 # Ambientes de Desenvolvimento
